@@ -42,6 +42,9 @@ def input_custom(list):
         compiled = re.compile(re.escape(sub), re.IGNORECASE)
         sort = compiled.sub(repl, sort)
 
+        # Supp spaces
+        sort = sort.replace(' ', '')
+
         l.append(sort)
     return l
 
