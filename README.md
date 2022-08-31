@@ -10,7 +10,7 @@ git clone https://github.com/damienliccia/harry-potter-password-generator
 
 cd harry-potter-password-generator/
 
-python pwd_hp_get.py
+python3 pwd_hp_get.py
 
 ```
 
