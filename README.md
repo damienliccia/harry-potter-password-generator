@@ -12,6 +12,6 @@ cd harry-potter-password-generator/
 python3 pwd_hp_get.py
 ```
 
-![](images/hp.gif)
+![Alt Text](https://media0.giphy.com/media/Q1wfNTPjHzXfzaThph/giphy.gif?cid=790b76116113fb0a0b64416521f886a7fa5ead5d18911e26&rid=giphy.gif)
 
 Eh voilà !
