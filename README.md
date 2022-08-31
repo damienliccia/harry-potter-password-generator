@@ -12,4 +12,6 @@ cd harry-potter-password-generator/
 python3 pwd_hp_get.py
 ```
 
+![](images/hp.gif)
+
 Eh voilà !
