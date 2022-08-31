@@ -1,6 +1,6 @@
-    # Harry Potter Password Generator
+# Harry Potter Password Generator
 
-    ## Installation
+## Installation
 
 Pour générer aléatoirement des mots de passe, il suffit de :
 
@@ -11,6 +11,7 @@ git clone https://github.com/damienliccia/harry-potter-password-generator
 cd harry-potter-password-generator/
 
 python pwd_hp_get.py
+
 ```
 
 Eh voilà !
